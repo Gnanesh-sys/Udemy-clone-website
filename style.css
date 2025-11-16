@@ -52,18 +52,16 @@ body{
     align-items: center;
 }
 
-.navbar__s4{
-    display: none;
-}
 /* My Learning Popup*/
 
-.mylearning
+.menu
 {
     position: relative;
     cursor: pointer;
+    font-size: 40px;
 }
 
-.mylearning__popup
+.menu__popup
 {
     position: absolute;
     background-color: white;
@@ -75,7 +73,7 @@ body{
     display: none;
 }
 
-.mylearning:hover .mylearning__popup{
+.menu:hover .menu__popup{
     display: block;
 }
 
