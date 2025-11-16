@@ -1,23 +1,22 @@
-# udemy-clone
-# Udemy Clone Frontend
+# Udemy Clone – Frontend (HTML & CSS)
 
-Welcome to the Udemy Clone Frontend project! This project is a replica of the Udemy website's frontend built using HTML and CSS. It incorporates various web development techniques like flexbox, animations, and media queries.
+Welcome to the **Udemy Clone Frontend** project!  
+This project replicates the look and feel of the Udemy website using **pure HTML and CSS**.  
+It includes responsive layouts, flexbox designs, and a clean modern UI.
 
-## Features
+---
 
-- Responsive design with media queries for different screen sizes.
-- Utilizes flexbox for efficient layout.
-- Animations and transitions for a polished user experience.
-- A Udemy-like design with a homepage and course listings.
+## 🚀 Live Demo
 
-## Demo
+🔗 **View Website:**  
+https://gnanesh-sys.github.io/Udemy-clone-website/
 
-You can see the live demo of this project at https://errormakesclever.github.io/udemy-clone/
+---
 
-## Installation
+## ✨ Features
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/udemy-clone-frontend.git
+- Fully responsive layout using **media queries**
+- Clean, flexible structure using **Flexbox**
+- Smooth **CSS animations & transitions**
+- Udemy-style homepage and course listing section
+- Modern and minimal UI design
