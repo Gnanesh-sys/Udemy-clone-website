@@ -15,8 +15,11 @@ https://gnanesh-sys.github.io/Udemy-clone-website/
 
 ## ✨ Features
 
-- Fully responsive layout using **media queries**
-- Clean, flexible structure using **Flexbox**
-- Smooth **CSS animations & transitions**
-- Udemy-style homepage and course listing section
-- Modern and minimal UI design
+- HTML Structure: Created semantic HTML for layout.
+- Responsive Design: Used CSS (Flexbox/Grid) for an adaptable layout.
+- Key Sections: 1. Navbar: Similar to Udemy's, with a logo, search bar, and navigation.
+- Menu Bar: Cloned Udemy's menu.
+- Recommended Courses: Showcased courses with images and details.
+- Recommended Topics: Included an input box for topic suggestions.
+- Popular Courses: Displayed courses sorted by ratings and reviews.
+- Footer: Identical to Udemy's, with links and copyright information.
